@@ -16,8 +16,8 @@ body{
   margin: 150px 33%;
   padding: 10px 20px 50px 20px;
   -webkit-box-shadow: 4px 4px 11px 3px rgba(0,0,0,0.3);
--moz-box-shadow: 4px 4px 11px 3px rgba(0,0,0,0.3);
-box-shadow: 4px 4px 11px 3px rgba(0,0,0,0.3);
+  -moz-box-shadow: 4px 4px 11px 3px rgba(0,0,0,0.3);
+  box-shadow: 4px 4px 11px 3px rgba(0,0,0,0.3);
 }
 h1{
   color: #611BBD;
@@ -38,7 +38,7 @@ button {
   font-size: 24px;
 }
 #question {
- font-size: 24px;
+  font-size: 24px;
 }
 
 #result{
@@ -48,7 +48,7 @@ button {
   text-align: center;
 }
 .correct {
-    background-color: #0c0;
+  background-color: #0c0;
 }
 .wrong {
   color: #fff;
